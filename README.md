@@ -44,39 +44,39 @@ Here are some ideas to get you started:
 ## 🌌 Tech and Tools
 <a name="tech-tools"></a>
 
-<img src="https://img.shields.io/badge/-C++-282C34?style=flat&logo=c%2B%2B&logoColor=00599C">
+[<img src="https://img.shields.io/badge/-C++-282C34?style=flat&logo=c%2B%2B&logoColor=00599C">][tech-tools-a]
 &nbsp;
-<img src="https://img.shields.io/badge/-Python-282C34?style=flat&logo=python">
+[<img src="https://img.shields.io/badge/-Python-282C34?style=flat&logo=python">][tech-tools-a]
 &nbsp;
-<img src="https://img.shields.io/badge/-HTML5-282C34?style=flat&logo=html5">
+[<img src="https://img.shields.io/badge/-HTML5-282C34?style=flat&logo=html5">][tech-tools-a]
 &nbsp;
-<img src="https://img.shields.io/badge/-CSS3-282C34?style=flat&logo=css3&logoColor=1572B6">
+[<img src="https://img.shields.io/badge/-CSS3-282C34?style=flat&logo=css3&logoColor=1572B6">][tech-tools-a]
 &nbsp;
-<img src="https://img.shields.io/badge/-java-282C34?style=flat&logo=java">
+[<img src="https://img.shields.io/badge/-java-282C34?style=flat&logo=java">][tech-tools-a]
 &nbsp;
-<img src="https://img.shields.io/badge/-git-282C34?style=flat&logo=git">
+[<img src="https://img.shields.io/badge/-git-282C34?style=flat&logo=git">][tech-tools-a]
 &nbsp;
-<img src="https://img.shields.io/badge/-VSCode-282C34?style=flat&logo=visual-studio-code&logoColor=007ACC">
+[<img src="https://img.shields.io/badge/-VSCode-282C34?style=flat&logo=visual-studio-code&logoColor=007ACC">][tech-tools-a]
 &nbsp;
-<img src="https://img.shields.io/badge/-Blender-282C34?style=flat&logo=blender">  
+[<img src="https://img.shields.io/badge/-Blender-282C34?style=flat&logo=blender">][tech-tools-a] 
 
 
 ## 💡 What I am Currently Learning
 <a name="current"></a>
 
-<img src="https://img.shields.io/badge/-JavaScript-282C34?style=flat&logo=javascript">
+[<img src="https://img.shields.io/badge/-JavaScript-282C34?style=flat&logo=javascript">][current-a]
 
 
 ## 🌱 What I Want to Learn
 <a name="learn"></a>
 
-<img src="https://img.shields.io/badge/-C%23-282C34?style=flat&logo=csharp">
+[<img src="https://img.shields.io/badge/-C%23-282C34?style=flat&logo=csharp">][learn-a]
 &nbsp;
-<img src="https://img.shields.io/badge/-.NET-282C34?style=flat&logo=.net">
+[<img src="https://img.shields.io/badge/-.NET-282C34?style=flat&logo=.net">][learn-a]
 &nbsp;
-<img src="https://img.shields.io/badge/-AWS-282C34?style=flat&logo=amazon-aws">
+[<img src="https://img.shields.io/badge/-AWS-282C34?style=flat&logo=amazon-aws">][learn-a]
 &nbsp;
-<img src="https://img.shields.io/badge/-Node.js-282C34?style=flat&logo=node.js">
+[<img src="https://img.shields.io/badge/-Node.js-282C34?style=flat&logo=node.js">][learn-a]
 
 
 ## 🌎 Where to Find Me
@@ -88,5 +88,6 @@ Here are some ideas to get you started:
 
 [hello]: #hello--
 [tech-tools-a]: #tech-tools
+[current-a]: #current
 [learn-a]: #learn
 [connect-a]: #connect
