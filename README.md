@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 
 // 💻 PC Building
 ```
+![kirb](assets/kirby-dancing.gif)
 
 ## 🌌 Tech and Tools
 <a name="tech-tools"></a>
