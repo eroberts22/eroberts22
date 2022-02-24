@@ -66,9 +66,9 @@ Here are some ideas to get you started:
 ## 💡 What I am Currently Learning
 <a name="current"></a>
 
-[<img src="https://img.shields.io/badge/-Dart-282C34?style=flat&logo=dart&logoColor=0078D4">][current-a]
+[<img src="https://img.shields.io/badge/-Dart-282C34?style=flat&logo=dart">][current-a]
 &nbsp;
-[<img src="https://img.shields.io/badge/-Flutter-282C34?style=flat&logo=flutter&logoColor=02569B">][current-a]
+[<img src="https://img.shields.io/badge/-Flutter-282C34?style=flat&logo=flutter">][current-a]
 &nbsp;
 [<img src="https://img.shields.io/badge/-JavaScript-282C34?style=flat&logo=javascript">][current-a]
 
@@ -77,9 +77,9 @@ Here are some ideas to get you started:
 ## 🌱 What I Want to Learn
 <a name="learn"></a>
 
-[<img src="https://img.shields.io/badge/-C%23-282C34?style=flat&logo=csharp&logoColor=239120">][learn-a]
+[<img src="https://img.shields.io/badge/-C%23-282C34?style=flat&logo=csharp">][learn-a]
 &nbsp;
-[<img src="https://img.shields.io/badge/-.NET-282C34?style=flat&logo=.net&logoColor=512BD4">][learn-a]
+[<img src="https://img.shields.io/badge/-.NET-282C34?style=flat&logo=.net">][learn-a]
 &nbsp;
 [<img src="https://img.shields.io/badge/-AWS-282C34?style=flat&logo=amazon-aws">][learn-a]
 &nbsp;
