@@ -1,7 +1,5 @@
 ## Hi there, I'm Liz <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
-
-![cat](assets/rainbowcat.gif)
-
+---
 <!--
 **eroberts22/eroberts22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,31 +14,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### About Me...
+### ⛰️ About Me...
 ```
-// graduating May 2022 with a BS in Computer Science
+// graduating May 2022 with a Bachelor of Science in Computer Science
 
-// tutor for Whitworth University's Computer Science department
+// experience tutoring for Whitworth University's Computer Science department
 
 // looking for work!
 ```
 
-### Aspiring...
+### 🌠 Aspiring...
 ```
 // Software Developer
 
 // Technical Artist
 ```
 
-### My Hobbies...
+### 📺 My Hobbies...
 ```
 // 🎮 Video Games
 
 // 🎨 Digital Art
 
-// 💻 PC Building
+// 🖥️ PC Building
 ```
 ![kirb](assets/kirby-dancing.gif)
+
+---
 
 ## 🌌 Tech and Tools
 <a name="tech-tools"></a>
@@ -61,24 +61,31 @@ Here are some ideas to get you started:
 &nbsp;
 [<img src="https://img.shields.io/badge/-Blender-282C34?style=flat&logo=blender">][tech-tools-a] 
 
+---
 
 ## 💡 What I am Currently Learning
 <a name="current"></a>
 
+[<img src="https://img.shields.io/badge/-Dart-282C34?style=flat&logo=dart&logoColor=0078D4">][current-a]
+&nbsp;
+[<img src="https://img.shields.io/badge/-Flutter-282C34?style=flat&logo=flutter&logoColor=02569B">][current-a]
+&nbsp;
 [<img src="https://img.shields.io/badge/-JavaScript-282C34?style=flat&logo=javascript">][current-a]
 
+---
 
 ## 🌱 What I Want to Learn
 <a name="learn"></a>
 
-[<img src="https://img.shields.io/badge/-C%23-282C34?style=flat&logo=csharp">][learn-a]
+[<img src="https://img.shields.io/badge/-C%23-282C34?style=flat&logo=csharp&logoColor=239120">][learn-a]
 &nbsp;
-[<img src="https://img.shields.io/badge/-.NET-282C34?style=flat&logo=.net">][learn-a]
+[<img src="https://img.shields.io/badge/-.NET-282C34?style=flat&logo=.net&logoColor=512BD4">][learn-a]
 &nbsp;
 [<img src="https://img.shields.io/badge/-AWS-282C34?style=flat&logo=amazon-aws">][learn-a]
 &nbsp;
 [<img src="https://img.shields.io/badge/-Node.js-282C34?style=flat&logo=node.js">][learn-a]
 
+---
 
 ## 🌎 Where to Find Me
 <a name="connect"></a>
