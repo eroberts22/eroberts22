@@ -13,6 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+fix logo later
+
+&logo=flutter&logoColor=02569B
+&logo=dart&logoColor=0078D4
 -->
 ### ⛰️ About Me...
 ```
@@ -61,18 +66,11 @@ Here are some ideas to get you started:
 &nbsp;
 [<img src="https://img.shields.io/badge/-Blender-282C34?style=flat&logo=blender">][tech-tools-a] 
 
----
-
 ## 💡 What I am Currently Learning
 <a name="current"></a>
 
-[<img src="https://img.shields.io/badge/-Dart-282C34?style=flat&logo=dart&logoColor=0078D4">][current-a]
-&nbsp;
-[<img src="https://img.shields.io/badge/-Flutter-282C34?style=flat&logo=flutter&logoColor=02569B">][current-a]
-&nbsp;
 [<img src="https://img.shields.io/badge/-JavaScript-282C34?style=flat&logo=javascript">][current-a]
-
----
+&nbsp;
 
 ## 🌱 What I Want to Learn
 <a name="learn"></a>
@@ -84,8 +82,6 @@ Here are some ideas to get you started:
 [<img src="https://img.shields.io/badge/-AWS-282C34?style=flat&logo=amazon-aws">][learn-a]
 &nbsp;
 [<img src="https://img.shields.io/badge/-Node.js-282C34?style=flat&logo=node.js">][learn-a]
-
----
 
 ## 🌎 Where to Find Me
 <a name="connect"></a>
