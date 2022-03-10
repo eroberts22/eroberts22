@@ -43,7 +43,6 @@ fix logo later
 
 // 🖥️ PC Building
 ```
-![kirb](assets/kirby-dancing.gif)
 
 ---
 
@@ -65,11 +64,19 @@ fix logo later
 [<img src="https://img.shields.io/badge/-VSCode-282C34?style=flat&logo=visual-studio-code&logoColor=007ACC">][tech-tools-a]
 &nbsp;
 [<img src="https://img.shields.io/badge/-Blender-282C34?style=flat&logo=blender">][tech-tools-a] 
+&nbsp;
+[<img src="https://img.shields.io/badge/-Ubuntu-282C34?style=flat&logo=ubuntu">][tech-tools-a] 
+&nbsp;
+[<img src="https://img.shields.io/badge/-Linux_Mint-282C34?style=flat&logo=linux-mint">][tech-tools-a] 
 
 ## 💡 What I am Currently Learning
 <a name="current"></a>
 
 [<img src="https://img.shields.io/badge/-JavaScript-282C34?style=flat&logo=javascript">][current-a]
+&nbsp;
+[<img src="https://img.shields.io/badge/-Flutter-282C34?style=flat&logo=flutter">][current-a]
+&nbsp;
+[<img src="https://img.shields.io/badge/-Dart-282C34?style=flat&logo=dart">][current-a]
 &nbsp;
 
 ## 🌱 What I Want to Learn
