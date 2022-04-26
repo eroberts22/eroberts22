@@ -74,9 +74,11 @@ fix logo later
 
 [<img src="https://img.shields.io/badge/-JavaScript-282C34?style=flat&logo=javascript">][current-a]
 &nbsp;
-[<img src="https://img.shields.io/badge/-Flutter-282C34?style=flat&logo=flutter">][current-a]
+[<img src="https://img.shields.io/badge/-Flutter-282C34?style=flat&logo=flutter&logoColor=02569B">][current-a]
 &nbsp;
-[<img src="https://img.shields.io/badge/-Dart-282C34?style=flat&logo=dart">][current-a]
+[<img src="https://img.shields.io/badge/-Dart-282C34?style=flat&logo=dart&logoColor=0175C2">][current-a]
+&nbsp;
+[<img src="https://img.shields.io/badge/-Firebase-282C34?style=flat&logo=firebase">][current-a]
 &nbsp;
 
 ## 🌱 What I Want to Learn
