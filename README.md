@@ -21,11 +21,11 @@ fix logo later
 -->
 ### ⛰️ About Me...
 ```
-// graduating May 2022 with a Bachelor of Science in Computer Science
+// automation engineer for Two Barrels LLC
+
+// graduated May 2022 with a Bachelor of Science in Computer Science
 
 // experience tutoring for Whitworth University's Computer Science department
-
-// looking for work!
 ```
 
 ### 🌠 Aspiring...
@@ -41,7 +41,7 @@ fix logo later
 
 // 🎨 Digital Art
 
-// 🖥️ PC Building
+// 🌱 Gardening
 ```
 
 ---
@@ -49,6 +49,8 @@ fix logo later
 ## 🌌 Tech and Tools
 <a name="tech-tools"></a>
 
+[<img src="https://img.shields.io/badge/-JavaScript-282C34?style=flat&logo=javascript">][current-a]
+&nbsp;
 [<img src="https://img.shields.io/badge/-C++-282C34?style=flat&logo=c%2B%2B&logoColor=00599C">][tech-tools-a]
 &nbsp;
 [<img src="https://img.shields.io/badge/-Python-282C34?style=flat&logo=python">][tech-tools-a]
@@ -57,9 +59,13 @@ fix logo later
 &nbsp;
 [<img src="https://img.shields.io/badge/-CSS3-282C34?style=flat&logo=css3&logoColor=1572B6">][tech-tools-a]
 &nbsp;
-[<img src="https://img.shields.io/badge/-java-282C34?style=flat&logo=java">][tech-tools-a]
-&nbsp;
 [<img src="https://img.shields.io/badge/-git-282C34?style=flat&logo=git">][tech-tools-a]
+&nbsp;
+[<img src="https://img.shields.io/badge/-Flutter-282C34?style=flat&logo=flutter&logoColor=02569B">][current-a]
+&nbsp;
+[<img src="https://img.shields.io/badge/-Dart-282C34?style=flat&logo=dart&logoColor=0175C2">][current-a]
+&nbsp;
+[<img src="https://img.shields.io/badge/-Firebase-282C34?style=flat&logo=firebase">][current-a]
 &nbsp;
 [<img src="https://img.shields.io/badge/-VSCode-282C34?style=flat&logo=visual-studio-code&logoColor=007ACC">][tech-tools-a]
 &nbsp;
@@ -68,17 +74,16 @@ fix logo later
 [<img src="https://img.shields.io/badge/-Ubuntu-282C34?style=flat&logo=ubuntu">][tech-tools-a] 
 &nbsp;
 [<img src="https://img.shields.io/badge/-Linux_Mint-282C34?style=flat&logo=linux-mint">][tech-tools-a] 
+&nbsp;
+
+
 
 ## 💡 What I am Currently Learning
 <a name="current"></a>
 
-[<img src="https://img.shields.io/badge/-JavaScript-282C34?style=flat&logo=javascript">][current-a]
+[<img src="https://img.shields.io/badge/-AWS-282C34?style=flat&logo=amazon-aws">][learn-a]
 &nbsp;
-[<img src="https://img.shields.io/badge/-Flutter-282C34?style=flat&logo=flutter&logoColor=02569B">][current-a]
-&nbsp;
-[<img src="https://img.shields.io/badge/-Dart-282C34?style=flat&logo=dart&logoColor=0175C2">][current-a]
-&nbsp;
-[<img src="https://img.shields.io/badge/-Firebase-282C34?style=flat&logo=firebase">][current-a]
+[<img src="https://img.shields.io/badge/-Node.js-282C34?style=flat&logo=node.js">][learn-a]
 &nbsp;
 
 ## 🌱 What I Want to Learn
@@ -88,9 +93,7 @@ fix logo later
 &nbsp;
 [<img src="https://img.shields.io/badge/-.NET-282C34?style=flat&logo=.net">][learn-a]
 &nbsp;
-[<img src="https://img.shields.io/badge/-AWS-282C34?style=flat&logo=amazon-aws">][learn-a]
-&nbsp;
-[<img src="https://img.shields.io/badge/-Node.js-282C34?style=flat&logo=node.js">][learn-a]
+
 
 ## 🌎 Where to Find Me
 <a name="connect"></a>
