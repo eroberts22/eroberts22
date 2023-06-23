@@ -21,7 +21,7 @@ fix logo later
 -->
 ### ⛰️ About Me...
 ```
-// automation engineer for Two Barrels LLC
+// software engineer for Two Barrels LLC
 
 // graduated May 2022 with a Bachelor of Science in Computer Science
 
@@ -30,7 +30,7 @@ fix logo later
 
 ### 🌠 Aspiring...
 ```
-// Software Developer
+// Game Developer
 
 // Technical Artist
 ```
@@ -48,26 +48,33 @@ fix logo later
 
 ## 🌌 Tech and Tools
 <a name="tech-tools"></a>
-
-[<img src="https://img.shields.io/badge/-JavaScript-282C34?style=flat&logo=javascript">][current-a]
+[<img src="https://img.shields.io/badge/-Ruby_on_Rails-282C34?style=flat&logo=ruby-on-rails&logoColor=CC0000">][tech-tools-a]
+&nbsp;
+[<img src="https://img.shields.io/badge/-JavaScript-282C34?style=flat&logo=javascript">][tech-tools-a]
+&nbsp;
+[<img src="https://img.shields.io/badge/-Amazon_AWS-282C34?style=flat&logo=amazon-aws">][tech-tools-a]
+&nbsp;
+[<img src="https://img.shields.io/badge/-Kubernetes-282C34?style=flat&logo=kubernetes">][tech-tools-a]
+&nbsp;
+[<img src="https://img.shields.io/badge/-Docker-282C34?style=flat&logo=docker">][tech-tools-a]
 &nbsp;
 [<img src="https://img.shields.io/badge/-C++-282C34?style=flat&logo=c%2B%2B&logoColor=00599C">][tech-tools-a]
 &nbsp;
 [<img src="https://img.shields.io/badge/-Python-282C34?style=flat&logo=python">][tech-tools-a]
 &nbsp;
+[<img src="https://img.shields.io/badge/-Vue.js-282C34?style=flat&logo=vue.js&logoColor=4FC08D">][tech-tools-a]
+&nbsp;
 [<img src="https://img.shields.io/badge/-HTML5-282C34?style=flat&logo=html5">][tech-tools-a]
 &nbsp;
 [<img src="https://img.shields.io/badge/-CSS3-282C34?style=flat&logo=css3&logoColor=1572B6">][tech-tools-a]
 &nbsp;
-[<img src="https://img.shields.io/badge/-git-282C34?style=flat&logo=git">][tech-tools-a]
+[<img src="https://img.shields.io/badge/-Node.js-282C34?style=flat&logo=node.js">][learn-a]
 &nbsp;
-[<img src="https://img.shields.io/badge/-Flutter-282C34?style=flat&logo=flutter&logoColor=02569B">][current-a]
+[<img src="https://img.shields.io/badge/-Drone_CI-282C34?style=flat&logo=drone">][learn-a]
 &nbsp;
-[<img src="https://img.shields.io/badge/-Dart-282C34?style=flat&logo=dart&logoColor=0175C2">][current-a]
+[<img src="https://img.shields.io/badge/-Flutter-282C34?style=flat&logo=flutter&logoColor=02569B">][tech-tools-a]
 &nbsp;
-[<img src="https://img.shields.io/badge/-Firebase-282C34?style=flat&logo=firebase">][current-a]
-&nbsp;
-[<img src="https://img.shields.io/badge/-VSCode-282C34?style=flat&logo=visual-studio-code&logoColor=007ACC">][tech-tools-a]
+[<img src="https://img.shields.io/badge/-Dart-282C34?style=flat&logo=dart&logoColor=0175C2">][tech-tools-a]
 &nbsp;
 [<img src="https://img.shields.io/badge/-Blender-282C34?style=flat&logo=blender">][tech-tools-a] 
 &nbsp;
@@ -75,15 +82,18 @@ fix logo later
 &nbsp;
 [<img src="https://img.shields.io/badge/-Linux_Mint-282C34?style=flat&logo=linux-mint">][tech-tools-a] 
 &nbsp;
+[<img src="https://img.shields.io/badge/-git-282C34?style=flat&logo=git">][tech-tools-a]
+&nbsp;
+[<img src="https://img.shields.io/badge/-VSCode-282C34?style=flat&logo=visual-studio-code&logoColor=007ACC">][tech-tools-a]
+&nbsp;
+[<img src="https://img.shields.io/badge/-Jira-282C34?style=flat&logo=jira&logoColor=0A0FFF">][tech-tools-a]
+&nbsp;
 
 
 
 ## 💡 What I am Currently Learning
 <a name="current"></a>
-
-[<img src="https://img.shields.io/badge/-AWS-282C34?style=flat&logo=amazon-aws">][learn-a]
-&nbsp;
-[<img src="https://img.shields.io/badge/-Node.js-282C34?style=flat&logo=node.js">][learn-a]
+[<img src="https://img.shields.io/badge/-MongoDB-282C34?style=flat&logo=mongodb">][current-a]
 &nbsp;
 
 ## 🌱 What I Want to Learn
