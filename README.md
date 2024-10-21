@@ -21,9 +21,9 @@ fix logo later
 -->
 ### ⛰️ About Me...
 ```
-// software engineer for Two Barrels LLC
+// software engineer at Commerce Architects
 
-// graduated May 2022 with a Bachelor of Science in Computer Science
+// graduated with a Bachelor of Science in Computer Science
 
 // experience tutoring for Whitworth University's Computer Science department
 ```
@@ -45,67 +45,104 @@ fix logo later
 ```
 
 ---
+### 💡 Programming Languages
+<a name="languages"></a>
 
-## 🌌 Tech and Tools
-<a name="tech-tools"></a>
-[<img src="https://img.shields.io/badge/-Ruby_on_Rails-282C34?style=flat&logo=ruby-on-rails&logoColor=CC0000">][tech-tools-a]
+[<img src="https://img.shields.io/badge/-TypeScript-282C34?style=flat&logo=typescript">][languages-a]
 &nbsp;
-[<img src="https://img.shields.io/badge/-JavaScript-282C34?style=flat&logo=javascript">][tech-tools-a]
+[<img src="https://img.shields.io/badge/-Java-282C34?style=flat">][languages-a]
 &nbsp;
-[<img src="https://img.shields.io/badge/-Amazon_AWS-282C34?style=flat&logo=amazon-aws">][tech-tools-a]
+[<img src="https://img.shields.io/badge/-HTML5-282C34?style=flat&logo=html5">][languages-a]
 &nbsp;
-[<img src="https://img.shields.io/badge/-Kubernetes-282C34?style=flat&logo=kubernetes">][tech-tools-a]
+[<img src="https://img.shields.io/badge/-CSS3-282C34?style=flat&logo=css3&logoColor=1572B6">][languages-a]
 &nbsp;
-[<img src="https://img.shields.io/badge/-Docker-282C34?style=flat&logo=docker">][tech-tools-a]
+[<img src="https://img.shields.io/badge/-Ruby-282C34?style=flat&logo=ruby&logoColor=701516">][languages-a]
 &nbsp;
-[<img src="https://img.shields.io/badge/-C++-282C34?style=flat&logo=c%2B%2B&logoColor=00599C">][tech-tools-a]
+[<img src="https://img.shields.io/badge/-C++-282C34?style=flat&logo=c%2B%2B&logoColor=00599C">][languages-a]
 &nbsp;
-[<img src="https://img.shields.io/badge/-Python-282C34?style=flat&logo=python">][tech-tools-a]
+[<img src="https://img.shields.io/badge/-Python-282C34?style=flat&logo=python">][languages-a]
 &nbsp;
-[<img src="https://img.shields.io/badge/-Vue.js-282C34?style=flat&logo=vue.js&logoColor=4FC08D">][tech-tools-a]
-&nbsp;
-[<img src="https://img.shields.io/badge/-HTML5-282C34?style=flat&logo=html5">][tech-tools-a]
-&nbsp;
-[<img src="https://img.shields.io/badge/-CSS3-282C34?style=flat&logo=css3&logoColor=1572B6">][tech-tools-a]
-&nbsp;
-[<img src="https://img.shields.io/badge/-Node.js-282C34?style=flat&logo=node.js">][learn-a]
-&nbsp;
-[<img src="https://img.shields.io/badge/-Drone_CI-282C34?style=flat&logo=drone">][learn-a]
-&nbsp;
-[<img src="https://img.shields.io/badge/-Flutter-282C34?style=flat&logo=flutter&logoColor=02569B">][tech-tools-a]
-&nbsp;
-[<img src="https://img.shields.io/badge/-Dart-282C34?style=flat&logo=dart&logoColor=0175C2">][tech-tools-a]
-&nbsp;
-[<img src="https://img.shields.io/badge/-Blender-282C34?style=flat&logo=blender">][tech-tools-a] 
-&nbsp;
-[<img src="https://img.shields.io/badge/-Ubuntu-282C34?style=flat&logo=ubuntu">][tech-tools-a] 
-&nbsp;
-[<img src="https://img.shields.io/badge/-Linux_Mint-282C34?style=flat&logo=linux-mint">][tech-tools-a] 
-&nbsp;
-[<img src="https://img.shields.io/badge/-git-282C34?style=flat&logo=git">][tech-tools-a]
-&nbsp;
-[<img src="https://img.shields.io/badge/-VSCode-282C34?style=flat&logo=visual-studio-code&logoColor=007ACC">][tech-tools-a]
-&nbsp;
-[<img src="https://img.shields.io/badge/-Jira-282C34?style=flat&logo=jira&logoColor=0A0FFF">][tech-tools-a]
+[<img src="https://img.shields.io/badge/-Dart-282C34?style=flat&logo=dart&logoColor=0175C2">][languages-a]
 &nbsp;
 
+### 📚 Frameworks/Libraries
+<a name="libraries"></a>
 
-
-## 💡 What I am Currently Learning
-<a name="current"></a>
-[<img src="https://img.shields.io/badge/-MongoDB-282C34?style=flat&logo=mongodb">][current-a]
+[<img src="https://img.shields.io/badge/-React-282C34?style=flat&logo=react">][libraries-a]
+[<img src="https://img.shields.io/badge/-Angular-282C34?style=flat&logo=angular">][libraries-a]
+[<img src="https://img.shields.io/badge/-Vue.js-282C34?style=flat&logo=vue.js&logoColor=4FC08D">][libraries-a]
+&nbsp;
+[<img src="https://img.shields.io/badge/-Node.js-282C34?style=flat&logo=node.js">][libraries-a]
+&nbsp;
+[<img src="https://img.shields.io/badge/-Spring-282C34?style=flat&logo=spring">][libraries-a]
+&nbsp;
+[<img src="https://img.shields.io/badge/-Ruby_on_Rails-282C34?style=flat&logo=ruby-on-rails&logoColor=CC0000">][libraries-a]
+&nbsp;
+[<img src="https://img.shields.io/badge/-Flutter-282C34?style=flat&logo=flutter&logoColor=02569B">][libraries-a]
 &nbsp;
 
-## 🌱 What I Want to Learn
+### 🐋 Container Technologies
+<a name="container"></a>
+
+[<img src="https://img.shields.io/badge/-Docker-282C34?style=flat&logo=docker">][container-a]
+&nbsp;
+[<img src="https://img.shields.io/badge/-Kubernetes-282C34?style=flat&logo=kubernetes">][container-a]
+&nbsp;
+
+### ☁️ Amazon Web Services
+<a name="aws"></a>
+
+[<img src="https://img.shields.io/badge/-EKS-282C34?style=flat&logo=amazon-eks">][aws-a]
+&nbsp;
+[<img src="https://img.shields.io/badge/-ECS-282C34?style=flat&logo=amazon-ecs">][aws-a]
+&nbsp;
+[<img src="https://img.shields.io/badge/-EC2-282C34?style=flat&logo=amazon-ec2">][aws-a]
+&nbsp;
+[<img src="https://img.shields.io/badge/-Lambda-282C34?style=flat&logo=aws-lambda">][aws-a]
+&nbsp;
+[<img src="https://img.shields.io/badge/-DynamoDB-282C34?style=flat&logo=amazon-dynamodb&logoColor=4053D6">][aws-a]
+&nbsp;
+[<img src="https://img.shields.io/badge/-API_Gateway-282C34?style=flat&logo=amazon-api-gateway">][aws-a]
+&nbsp;
+[<img src="https://img.shields.io/badge/-S3-282C34?style=flat&logo=amazon-s3">][aws-a]
+&nbsp;
+
+### 🚀 CI/CD
+<a name="cicd"></a>
+
+[<img src="https://img.shields.io/badge/-Drone_CI-282C34?style=flat&logo=drone">][cicd-a]
+&nbsp;
+[<img src="https://img.shields.io/badge/-GitLab-282C34?style=flat&logo=gitlab">][cicd-a]
+&nbsp;
+
+### 🛠️ Tools
+<a name="tools"></a>
+
+[<img src="https://img.shields.io/badge/-git-282C34?style=flat&logo=git">][tools-a]
+&nbsp;
+[<img src="https://img.shields.io/badge/-Ubuntu-282C34?style=flat&logo=ubuntu">][tools-a] 
+&nbsp;
+[<img src="https://img.shields.io/badge/-GitLab-282C34?style=flat&logo=gitlab">][tools-a]
+&nbsp;
+[<img src="https://img.shields.io/badge/-Bitbucket-282C34?style=flat&logo=bitbucket&logoColor=0052CC">][tools-a]
+&nbsp;
+[<img src="https://img.shields.io/badge/-VSCode-282C34?style=flat&logo=visual-studio-code&logoColor=007ACC">][tools-a]
+&nbsp;
+[<img src="https://img.shields.io/badge/-Jira-282C34?style=flat&logo=jira&logoColor=0A0FFF">][tools-a]
+&nbsp;
+[<img src="https://img.shields.io/badge/-Blender-282C34?style=flat&logo=blender">][tools-a] 
+&nbsp;
+
+
+### 🌱 What I Want to Learn
 <a name="learn"></a>
 
 [<img src="https://img.shields.io/badge/-C%23-282C34?style=flat&logo=csharp">][learn-a]
 &nbsp;
-[<img src="https://img.shields.io/badge/-.NET-282C34?style=flat&logo=.net">][learn-a]
+[<img src="https://img.shields.io/badge/-.NET-282C34?style=flat">][learn-a]
 &nbsp;
 
-
-## 🌎 Where to Find Me
+# 🌎 Where to Find Me
 <a name="connect"></a>
 
 [<img src="https://img.shields.io/badge/-LinkedIn-282C34?style=flat&logo=linkedin&logoColor=0A66C2">](https://www.linkedin.com/in/elizabeth-roberts-in/)
@@ -113,7 +150,11 @@ fix logo later
 [<img src="https://img.shields.io/badge/-My Website-282C34?style=flat&logoColor=007ACC&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAsVBMVEUAAAD/Kn/fH3/IJH/SLXjlJnKRMKnUKmrgKHDbK3LbKnHcKHPZJXHeK3HZKm/fKm/aKXLbKHDcKG7cKHPcJ3DdKnGUN6aPNa6OOKzbKHHLLH6nMZm/L4bUKnbELYOQNavKK37ZKXKUNam0MJDbKHHcKXHbKHHTKniUNanbKXDLK33CLoXTKnjNK3vcKXGgM6CnMpu7L4vKLH/NLH3PK3vQK3rRK3rTK3jaKXLbKXLcKXFtrovqAAAAL3RSTlMABggOERQVGBkdJCwvLzAwMTIzMzQ2Nzk7XmdsbHl6io2PrM3o7O7w9fb3+Pr+/sW/QIAAAABpSURBVHjanMjDAcUAFAXR923biG3d/vuKtc7szlDnBr22TreHys4b33VEwKsZDLK057Aafz8bpsMvCo/emQMD+OW+yi6yPEBQvn2ij4W60OUmdBFtNEkzovH5eNjvtpv1arnaTZOR4ysA9TwRNJ3eNGEAAAAASUVORK5CYII=">](https://portfoliobeyond.com/)
 
 [hello]: #hello--
-[tech-tools-a]: #tech-tools
-[current-a]: #current
+[languages-a]: #languages
+[libraries-a]: #libraries
+[container-a]: #container
+[aws-a]: #aws
+[cicd-a]: #cicd
+[tools-a]: #tools
 [learn-a]: #learn
 [connect-a]: #connect
