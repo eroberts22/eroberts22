@@ -50,13 +50,13 @@ fix logo later
 
 [<img src="https://img.shields.io/badge/-TypeScript-282C34?style=flat&logo=typescript">][languages-a]
 &nbsp;
-[<img src="https://img.shields.io/badge/-Java-282C34?style=flat">][languages-a]
-&nbsp;
 [<img src="https://img.shields.io/badge/-HTML5-282C34?style=flat&logo=html5">][languages-a]
 &nbsp;
 [<img src="https://img.shields.io/badge/-CSS3-282C34?style=flat&logo=css3&logoColor=1572B6">][languages-a]
 &nbsp;
 [<img src="https://img.shields.io/badge/-Ruby-282C34?style=flat&logo=ruby&logoColor=701516">][languages-a]
+&nbsp;
+[<img src="https://img.shields.io/badge/-Java-282C34?style=flat">][languages-a]
 &nbsp;
 [<img src="https://img.shields.io/badge/-C++-282C34?style=flat&logo=c%2B%2B&logoColor=00599C">][languages-a]
 &nbsp;
@@ -69,7 +69,9 @@ fix logo later
 <a name="libraries"></a>
 
 [<img src="https://img.shields.io/badge/-React-282C34?style=flat&logo=react">][libraries-a]
+&nbsp;
 [<img src="https://img.shields.io/badge/-Angular-282C34?style=flat&logo=angular">][libraries-a]
+&nbsp;
 [<img src="https://img.shields.io/badge/-Vue.js-282C34?style=flat&logo=vue.js&logoColor=4FC08D">][libraries-a]
 &nbsp;
 [<img src="https://img.shields.io/badge/-Node.js-282C34?style=flat&logo=node.js">][libraries-a]
